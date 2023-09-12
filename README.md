@@ -6,10 +6,5 @@
 
 ---
 
-## Problem 1
-
-Plot the GW inspiral time as a function of initial orbital separation and eccentricity.
-
-## Problem 2
-
-Something about alpha-lambda parametrization of common envelope evolution.
+## See the Jupyter notebook for the assignment. 
+Fill in the missing pieces and answer the questions in the notebook. Push your completed notebook to your fork of the repository.
